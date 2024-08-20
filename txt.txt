@@ -1,0 +1,50 @@
+<table class="table" width="80%" align="center" >
+        <tbody>
+            <tr>
+                <td width="25%">
+                    <img src="Assets/Images/pollachi.jpg" width="100%">
+                    <h1>Never Ending Paddy Fields and Narrow Roads</h1>
+                    <h2>Pollachi</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+                <td width="25%">
+                    <img src="Assets/Images/thanjavur.png" width="100%">
+                    <h1>Small Ride across town in mid summer heat</h1>
+                    <h2>Thanjavur</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+                <td width="25%">
+                    <img src="Assets/Images/chidam.png" width="100%">
+                    <h1>Catching a Short Break at the Lotus Pond</h1>
+                    <h2>Chidambaram</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+            </tr>
+            <tr>
+                <td width="25%">
+                    <img src="Assets/Images/masi.jpg" width="100%">
+                    <h1>Road Trip enroute the mountains and forests</h1>
+                    <h2>Masinagudi</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+                <td width="25%">
+                    <img src="Assets/Images/kumba.jpg" width="100%">
+                    <h1>Fall in love with the divine agraharams</h1>
+                    <h2>Kumbakkonam</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+                <td width="25%">
+                    <img src="Assets/Images/thiru.png" width="100%">
+                    <h1>Energy driven drive through the windmills</h1>
+                    <h2>Tirunelveli</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis perferendis laudantium eveniet tempore quis, voluptatum voluptatem, nemo quam consectetur amet dolorum cumque quasi quidem recusandae, repellat nostrum dolor adipisci!</p>
+                    <button class="readmore">Read More</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
