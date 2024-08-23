@@ -29,8 +29,10 @@
 }
 /*Second section*/
 .second{
-    padding-right: 0;
-    padding-left: 5%;
+    background-image: url(Assets/Images/bike.png);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: right;
 }
 @font-face{
     font-family: 'stick';
@@ -39,32 +41,30 @@
 .welcome{
     font-size: 20px;
     font-weight: 600;
+    margin-top: 8.5%;
+    padding-left: 8%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #7a1755;
     display: inline-block;
-    padding: 10% 3% 0 3%;
-    width: 20%; 
 }
 
 .slogan{
     font-family: stick;
-    padding-left: 3%;
-    display: inline-block;
-    width: 30%;
+    padding-left: 8%;
+    width: 25%;
     font-size: 40px;
     color: #7a1755;
 }
 .search{
     width: 50%;
-    margin-left: 3%;
+    margin-left: 8%;
     border: #800080;
-    position: absolute;
 }
 .search select{ 
     appearance: none;
     background: #e3e4e4;
     font-size: 24px; 
-    padding: 15px 20px; 
+
     width: 70%; 
     box-shadow: #7a1755;
 
@@ -75,8 +75,7 @@
     padding: 15px 30px;
     border: none;
     font-size: 24px;
-    margin: 70px 0;
-    margin-left: 3.15%;
+    margin-left: 8%;
 }
 
 .explore-button:hover {
